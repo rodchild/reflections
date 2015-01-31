@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+metafiles are created in the directory and .git is created
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is  a place to put changed files before a commit, the file is added to the repository only after a commit
+the working directory include both the staging area and the repository
