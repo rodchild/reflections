@@ -5,5 +5,10 @@ metafiles are created in the directory and .git is created
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-the staging area is  a place to put changed files before a commit, the file is added to the repository only after a commit
-the working directory include both the staging area and the repository
+The reppository contains several commits and each commit contains several files;
+the staging area is  a copy of the most recent commits until I add changes to it, t
+the working directory contains the file you work on
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when I need to work on a different version of my project or to keep thins organized when oworking with others
